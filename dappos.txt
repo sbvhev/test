@@ -19,4 +19,3 @@ Errors you might get while running `npm install`
 - gyp ERR! configure error
 gyp ERR! stack Error: Can't find Python executable "python", you can set the PYTHON env variable.
 Fix:
-https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
